@@ -5,5 +5,5 @@
 
 | DualShot | Deskmat |
 |----------|----------|
-| Ligne 1, Colonne 1 | Ligne 1, Colonne 2 |
-| Ligne 2, Colonne 1 | Ligne 2, Colonne 2 |
+| 199 $ | 40 $|
+
